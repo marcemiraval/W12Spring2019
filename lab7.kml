@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<NetworkLink>
+<name><![CDATA[Places I have visited in the world]]></name>
+<Link>
+<href>
+https://fusiontables.google.com/exporttable?query=select+col5+from+1HvPuvRA1mP6SPPG16ISgrFPVHRJx-8_WWVEhRfTO&amp;o=kmllink&amp;g=col5&amp;styleId=3&amp;templateId=4</href>
+</Link>
+</NetworkLink>
+</kml>
